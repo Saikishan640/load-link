@@ -1,0 +1,6 @@
+{
+  "name": "LoadLink - Smart Booking & Return-Load Logistics",
+  "description": "On-demand goods transport and smart return-load matching platform for autos, mini-trucks, lorries, and containers.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
